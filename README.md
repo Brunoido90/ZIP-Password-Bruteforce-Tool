@@ -13,8 +13,7 @@ pip install tqdm
 Skript herunterladen:
 
 bash
-git clone https://github.com/deinusername/zip-password-cracker.git
-cd zip-password-cracker
+git clone https://github.com/Brunoido90/ZIP-Password-Bruteforce-Tool
 🚀 Verwendung
 Skript starten:
 
