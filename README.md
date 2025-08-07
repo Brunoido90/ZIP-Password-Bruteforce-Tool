@@ -62,12 +62,4 @@ Falls du Features oder Optimierungen hast, öffne ein Issue oder Pull Request!
 
 🚀 Viel Erfolg beim (legalen) Knacken!
 
-📂 Repository-Struktur
-text
-/zip-password-cracker  
-│   README.md           # Diese Anleitung  
-│   cracker.py          # Hauptskript  
-│   requirements.txt    # Abhängigkeiten  
-└── /wordlists          # Optional: Passwort-Wörterbücher  
-        rockyou.txt  
-        common.txt  
+
